@@ -1,0 +1,27 @@
+.page{
+    display: flex;
+    width: 700px;
+    height: 600px;
+    padding: 20px;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.pics{
+    width: 100%; 
+ 
+}
+.pics img{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+#btn{
+    width: 100px;
+    height: 40px;
+    background-color: green;
+    border: 3px solid black;
+}

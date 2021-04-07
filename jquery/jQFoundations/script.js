@@ -35,14 +35,14 @@ $(document).ready(function(){
         $(".append p").after("Text After!");
     });
 
-    $("#htmlBtn_btn").click(function () {
-        $(".addHtml input").html(<input>Hello!</input>);
-    });
-    $("#attr_btn").click(function () {
-        $(".addHtml input").attr("placeholder","Hi")
-    });
-    $("#htmlBtn_btn").click(function () {
-        $(".addHtml input").text("text_btn");
-    });
+    // $("#htmlBtn_btn").click(function () {
+    //     $(".addHtml input").html(<input>Hello!</input>);
+    // });
+    // $("#attr_btn").click(function () {
+    //     $(".addHtml input").attr("placeholder","Hi")
+    // });
+    // $("#htmlBtn_btn").click(function () {
+    //     $(".addHtml input").text("text_btn");
+    // });
 
 });

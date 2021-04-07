@@ -1,0 +1,3 @@
+[submodule "debugging-jQuery"]
+	path = debugging-jQuery
+	url = https://github.com/Codingdojo-Trey/Debugging-jQuery.git

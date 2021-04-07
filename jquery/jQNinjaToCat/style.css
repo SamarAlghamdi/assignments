@@ -1,0 +1,19 @@
+.page{
+    display: flex;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    margin: 0 auto;
+}
+.imges{
+    width: 100%; 
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.imges img{
+    margin-bottom: 10px;
+}
